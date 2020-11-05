@@ -1,5 +1,5 @@
-# source: https://us1.prisma.sh/eric-631c70/sicccckfits/dev
-# timestamp: Wed Nov 04 2020 17:10:59 GMT-0700 (Mountain Standard Time)
+# source: https://us1.prisma.sh/eric-631c70/sicckfits/dev
+# timestamp: Thu Nov 05 2020 10:54:11 GMT-0700 (Mountain Standard Time)
 
 type AggregateUser {
   count: Int!
